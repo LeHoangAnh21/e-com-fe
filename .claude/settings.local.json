@@ -4,7 +4,8 @@
       "Bash(npx create-next-app@latest:*)",
       "Bash(cp:*)",
       "Bash(npm run:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(xargs sed:*)"
     ]
   }
 }

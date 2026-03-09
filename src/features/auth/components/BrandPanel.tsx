@@ -24,9 +24,9 @@ export default function BrandPanel() {
         {/* Logo */}
         <div className="flex items-center justify-center gap-3 mb-10">
           <div className="w-14 h-14 bg-white rounded-2xl flex items-center justify-center shadow-2xl">
-            <span className="text-orange-500 font-black text-2xl">S</span>
+            <span className="text-orange-500 font-black text-2xl">P</span>
           </div>
-          <span className="text-4xl font-black tracking-tight">ShopVN</span>
+          <span className="text-4xl font-black tracking-tight">PeaMall</span>
         </div>
 
         {/* Main tagline */}

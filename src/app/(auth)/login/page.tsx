@@ -3,9 +3,9 @@ import BrandPanel from "@/features/auth/components/BrandPanel";
 import AuthCard from "@/features/auth/components/AuthCard";
 
 export const metadata: Metadata = {
-  title: "Đăng nhập | ShopVN",
+  title: "Đăng nhập | PeaMall",
   description:
-    "Đăng nhập hoặc tạo tài khoản ShopVN để mua sắm hàng triệu sản phẩm chất lượng",
+    "Đăng nhập hoặc tạo tài khoản PeaMall để mua sắm hàng triệu sản phẩm chất lượng",
 };
 
 export default function LoginPage() {

@@ -12,20 +12,20 @@ export default function AuthCard() {
 
   if (view === "forgot-password") {
     return (
-      <div className="w-full w-full">
+      <div className="w-full">
         <ForgotPasswordForm onBack={() => setView("login")} />
       </div>
     );
   }
 
   return (
-    <div className="w-full w-full">
+    <div className="w-full">
       {/* Mobile Logo */}
       <div className="flex items-center justify-center gap-2.5 mb-8 lg:hidden">
         <div className="w-11 h-11 bg-gradient-to-br from-orange-500 to-red-500 rounded-xl flex items-center justify-center shadow-lg">
-          <span className="text-white font-black text-xl">S</span>
+          <span className="text-white font-black text-xl">P</span>
         </div>
-        <span className="text-2xl font-black text-gray-900">ShopVN</span>
+        <span className="text-2xl font-black text-gray-900">PeaMall</span>
       </div>
 
       {/* Welcome text */}

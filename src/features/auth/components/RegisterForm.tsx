@@ -102,7 +102,7 @@ export default function RegisterForm() {
           >
             Chính sách bảo mật
           </a>{" "}
-          của ShopVN
+          của PeaMall
         </span>
       </label>
 
